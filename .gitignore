@@ -1,0 +1,6 @@
+_build/
+deps/
+doc/
+.VSCodeCounter/
+erl_crash.dump
+mix.lock
